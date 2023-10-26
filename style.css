@@ -1,11 +1,8 @@
-@font-face {
-    font-family: lwBlock;
-    src: url(lwblock.ttf);
 }
 h1 {
-    font-family: lwBlock;
+    font-family: Bahnschrift;
     font-weight: Bold;
 }   
 p {
-    font-family: lwBlock;
+    font-family: Bahnschrift;
 }
