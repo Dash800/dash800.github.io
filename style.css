@@ -3,6 +3,7 @@ h1 {
 }   
 p {
     font-family: 'Bahnschrift', sans-serif;
+    margin-top: 20px;
 }
 nav {
     background-color: grey;
@@ -10,7 +11,7 @@ nav {
     top: 0;
     left: 0;
     right: 0;
-    height: 20px;
+    height: 40px;
     display: flex;
     align-items: center;
 }
@@ -19,4 +20,8 @@ nav * {
 }
 nav li {
     font-family: 'Bahnschrift', sans-serif;
+}
+
+body {
+    padding-top: 80px;
 }
