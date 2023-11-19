@@ -12,7 +12,11 @@ nav {
     left: 0;
     right: 0;
     height: 80px;
+    align-items: center;
 }
 nav * {
     display: inline
+}
+nav li {
+    font-family: Bahnschrift;
 }
