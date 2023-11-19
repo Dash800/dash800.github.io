@@ -1,9 +1,8 @@
-}
 h1 {
-    font-family: Bahnschrift;
+    font-family: 'Bahnschrift', sans-serif;
 }   
 p {
-    font-family: Bahnschrift;
+    font-family: 'Bahnschrift', sans-serif;
 }
 nav {
     background-color: grey;
@@ -12,11 +11,12 @@ nav {
     left: 0;
     right: 0;
     height: 80px;
+    display: flex;
     align-items: center;
 }
 nav * {
-    display: inline
+    display: inline;
 }
 nav li {
-    font-family: Bahnschrift;
+    font-family: 'Bahnschrift', sans-serif;
 }
